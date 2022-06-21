@@ -1,0 +1,2 @@
+The balance is 10000.
+The widthrawal amount is 'widthrawal'+amount
